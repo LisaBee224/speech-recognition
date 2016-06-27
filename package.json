@@ -1,0 +1,35 @@
+{
+  "name": "speech-recognition",
+  "version": "1.0.0",
+  "description": "speech recognition app",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Lisa Buch",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "debug": "^2.2.0",
+    "depd": "^1.1.0",
+    "destroy": "^1.0.4",
+    "ee-first": "^1.1.1",
+    "encodeurl": "^1.0.1",
+    "etag": "^1.7.0",
+    "finalhandler": "^0.5.0",
+    "fresh": "^0.3.0",
+    "http-errors": "^1.5.0",
+    "inherits": "^2.0.1",
+    "mime": "^1.3.4",
+    "ms": "^0.7.1",
+    "on-finished": "^2.3.0",
+    "parseurl": "^1.3.1",
+    "range-parser": "^1.2.0",
+    "send": "^0.14.1",
+    "serve-static": "^1.11.1",
+    "setprototypeof": "^1.0.1",
+    "statuses": "^1.3.0",
+    "unpipe": "^1.0.0"
+  }
+}

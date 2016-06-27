@@ -1,0 +1,27 @@
+body{
+  font-family:sans-serif;
+  color: #333;
+  width: 900px;
+  margin:0 auto;
+  text-align:center;
+}
+
+.searches{
+  margin-top:200px;
+}
+
+
+#click{
+  width: auto;
+  background-color:#2fbfef;
+  border-radius:10px;
+  padding:2%;
+  color:white;
+  text-decoration:none;
+  font-family:1.5em;
+}
+.prompt{
+  margin-top:15px;
+  display:none;
+}
+.active{display:block;}
